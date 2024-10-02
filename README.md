@@ -1,2 +1,2 @@
-Trabalho Final da materia Introdução a computação para Mineração.
-Trabalho raealizado com intuito de resolver problemas otimizaçao aplicando algoritimos de solucao e Heuristicas.
+Trabalho Final da materia Introdução a Computação para Mineração.
+Trabalho realizado com intuito de resolver problemas otimizaçao, aplicando algoritimos de solucao e Heuristicas.
